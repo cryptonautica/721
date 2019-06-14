@@ -1,0 +1,36 @@
+{
+  "attributes": [
+    {
+      "trait_type": "size", 
+      "value": "medium"
+    }, 
+    {
+      "trait_type": "type", 
+      "value": "terrestrial"
+    }, 
+    {
+      "trait_type": "habitability", 
+      "value": "excellent"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_production", 
+      "value": 100
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_research", 
+      "value": 100
+    },  
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    }
+  ], 
+  "background_color: "000000",
+  "description": "Neptune is...", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://ipfs.io/ipfs/QmYGyks1YUADXwmw7s9YQmhvb4Rx4hijZnDAn1TocAKs3S", 
+  "name": "Neptune"
+}
