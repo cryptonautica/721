@@ -2,25 +2,25 @@
   "attributes": [
     {
       "trait_type": "size", 
-      "value": "medium"
+      "value": "large"
     }, 
     {
       "trait_type": "type", 
-      "value": "terrestrial"
+      "value": "gas giant"
     }, 
     {
       "trait_type": "habitability", 
-      "value": "excellent"
+      "value": "poor"
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_production", 
-      "value": 100
+      "value": 40
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_research", 
-      "value": 100
+      "value": 10
     },  
     {
       "display_type": "number", 
@@ -29,7 +29,7 @@
     }
   ], 
   "background_color: "000000",
-  "description": "Uranus is fat", 
+  "description": "Uranus has 13 known rings. The inner rings are narrow and dark and the outer rings are brightly colored.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/QmbKw3f8G47PAt3emz9Hc3wMhtRob4RNhv9rE6ovwQnWsv", 
   "name": "Uranus"
