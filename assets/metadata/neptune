@@ -2,25 +2,25 @@
   "attributes": [
     {
       "trait_type": "size", 
-      "value": "medium"
+      "value": "large"
     }, 
     {
       "trait_type": "type", 
-      "value": "terrestrial"
+      "value": "gas giant"
     }, 
     {
       "trait_type": "habitability", 
-      "value": "excellent"
+      "value": "poor"
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_production", 
-      "value": 100
+      "value": 40
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_research", 
-      "value": 100
+      "value": 10
     },  
     {
       "display_type": "number", 
@@ -29,7 +29,7 @@
     }
   ], 
   "background_color: "000000",
-  "description": "Neptune is...", 
+  "description": "Neptune's atmosphere contains icy clouds and the fastest winds recorded in the solar system.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/QmYGyks1YUADXwmw7s9YQmhvb4Rx4hijZnDAn1TocAKs3S", 
   "name": "Neptune"
