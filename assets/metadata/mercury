@@ -2,7 +2,7 @@
   "attributes": [
     {
       "trait_type": "size", 
-      "value": "medium"
+      "value": "small"
     }, 
     {
       "trait_type": "type", 
@@ -10,17 +10,17 @@
     }, 
     {
       "trait_type": "habitability", 
-      "value": "excellent"
+      "value": "poor"
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_production", 
-      "value": 100
+      "value": 40
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_research", 
-      "value": 100
+      "value": 10
     },  
     {
       "display_type": "number", 
@@ -29,7 +29,7 @@
     }
   ], 
   "background_color: "000000",
-  "description": "Mercury ....", 
+  "description": "Mercury is the closest planet to the sun with surface temperature reaching a scorching 840 degrees Fahrenheit.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/QmWqvgWEfG8BvVkV6tc5CtspcSV7xq8h4MJX5m75SJUrAr", 
   "name": "Mercury"
