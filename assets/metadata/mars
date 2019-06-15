@@ -10,17 +10,17 @@
     }, 
     {
       "trait_type": "habitability", 
-      "value": "excellent"
+      "value": "average"
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_production", 
-      "value": 100
+      "value": 75
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_research", 
-      "value": 100
+      "value": 30
     },  
     {
       "display_type": "number", 
@@ -29,7 +29,7 @@
     }
   ], 
   "background_color: "000000",
-  "description": "Mars ....", 
+  "description": "Mars is known as the Red Planet because iron minerals in the Martian soil oxidize, or rust, causing the soil and atmosphere to look red.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/QmT2Rff7qUCvgyz6oo6jzr3CKLrnM8bPeH5JG4NgWFubXz", 
   "name": "Mars"
