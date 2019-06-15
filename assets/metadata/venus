@@ -10,17 +10,17 @@
     }, 
     {
       "trait_type": "habitability", 
-      "value": "excellent"
+      "value": "poor"
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_production", 
-      "value": 100
+      "value": 40
     }, 
     {
       "display_type": "boost_number", 
       "trait_type": "base_research", 
-      "value": 100
+      "value": 10
     },  
     {
       "display_type": "number", 
@@ -29,7 +29,7 @@
     }
   ], 
   "background_color: "000000",
-  "description": "Venus ....", 
+  "description": "Venus' solid surface is a volcanic landscape covered with extensive plains featuring high volcanic mountains.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/QmPjrR1VhHYV6pPCQ5giAS7QKuEab7LvP5zC6w61XqbUDU", 
   "name": "Venus"
