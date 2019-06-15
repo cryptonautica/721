@@ -1,0 +1,36 @@
+{
+  "attributes": [
+    {
+      "trait_type": "size", 
+      "value": "tiny"
+    }, 
+    {
+      "trait_type": "type", 
+      "value": "dwarf planet"
+    }, 
+    {
+      "trait_type": "habitability", 
+      "value": "poor"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_production", 
+      "value": 22
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "base_research", 
+      "value": 05
+    },  
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    }
+  ], 
+  "background_color: "000000",
+  "description": "Pluto is a dwarf planet that lies in the Kuiper Belt, an area full of icy bodies and other dwarf planets out past Neptune.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://ipfs.io/ipfs/", 
+  "name": "Pluto"
+}
